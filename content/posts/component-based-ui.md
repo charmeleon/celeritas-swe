@@ -1,7 +1,7 @@
 ---
 title: "Component Based UI"
 date: 2023-01-28T12:12:51-06:00
-draft: true
+draft: false
 ---
 ## Musings on component-based UI systems
 
